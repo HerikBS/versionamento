@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Herik Barreira da Silva
-
-💼 **Profissão:** [Ex: Desenvolvedor(a) Front-End]  
-📍 **Localização:** [Cidade, Estado]  
-✉️ **E-mail:** [seu.email@exemplo.com]  
+💼 **Profissão:** [Futuro Programador]  
+📍 **Localização:** [Balsas-MA]  
+✉️ **E-mail:** [heriksilva1611@gmail.com]  
 💻 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
 
 ---
@@ -14,38 +13,13 @@ Gosto de aprender novas tecnologias e criar soluções criativas para problemas 
 
 ---
 
-## 🛠️ Habilidades
-
-- 💻 [Linguagem 1], [Linguagem 2], [Linguagem 3]  
-- 🧩 [Ferramenta ou framework 1], [framework 2]  
-- 🗄️ [Banco de dados ou tecnologia extra]
-
----
-
 ## 🎓 Formação
 
-**[Curso]** — [Instituição]  
-📅 [Ano de início] – [Ano de conclusão]
+**[Curso Técnico em Informática para Internet]** — [SENAI]  
+📅 [2025] – [2026]
 
 ---
 
-## 💼 Experiência (opcional)
-
-**[Cargo]** — [Empresa]  
-📅 [Ano de início] – [Ano de saída ou "atual"]  
-- [Breve descrição do que você fazia]
-
----
-
-## 🚀 Projetos
-
-- **[Nome do Projeto 1]** — [Descrição curta]  
-  🔗 [Link do projeto](https://linkdoproj.com)
-
-- **[Nome do Projeto 2]** — [Descrição curta]  
-  🔗 [Link do projeto](https://linkdoproj.com)
-
----
 
 ## 📫 Contato
 
